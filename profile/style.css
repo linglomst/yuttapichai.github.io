@@ -1,0 +1,11 @@
+#main-title {
+    font-size: 24px;
+}
+
+.paragraph-one {
+    border: 2px solid lightgrey;
+}
+
+.paragraph-two {
+    background-color: lightgrey;
+}
