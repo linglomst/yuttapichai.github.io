@@ -1,0 +1,93 @@
+.colmar-text {
+    color: #4a4a4a;
+}
+
+.academy-text {
+    color: #9b9b9b;
+}
+
+.nav-bar {
+    padding: 0 24px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.nav-items ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    padding-left: 16px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.first-section {
+    background-color: #d8d8d8;
+}
+
+.container .second-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-banner {
+    padding: 32px 24px;
+}
+
+.col-8 h1 {
+    margin-bottom: 24px;
+}
+
+.info-col {
+    margin: 32px 0;
+}
+
+.guest-lecture {
+    background-color: #d8d8d8;
+}
+
+.info-col img {
+    padding: 16px;
+    width: 100%;
+}
+
+.images img {
+    width: 100%;
+}
+
+.first-section-headline {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info-orientation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.third-section {
+    background-color: #d8d8d8;
+    display: flex;
+    justify-content: center;
+}
+
+.card img {
+    width: auto;
+}
+
+.card {
+    margin: 32px;
+}
+
+.third-section h1 {
+    text-align: center;
+    padding: 32px 0;
+}
